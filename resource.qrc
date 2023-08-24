@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/fight_back/1.png</file>
+        <file>resources/kaitou/background.png</file>
+        <file>resources/kaitou/background2.png</file>
+        <file>resources/map/0.png</file>
+        <file>resources/map/1.png</file>
+        <file>resources/map/3.png</file>
+        <file>resources/map/4.png</file>
+        <file>resources/map/5.png</file>
+        <file>resources/monster_xiangsu/Cleric.png</file>
+        <file>resources/renwu/1.png</file>
+        <file>resources/renwu/2.png</file>
+        <file>resources/renwu/3.png</file>
+        <file>resources/renwu/4.png</file>
+        <file>resources/shop/1.png</file>
+        <file>resources/shop/2.png</file>
+        <file>resources/shop/3.png</file>
+        <file>resources/shop/5.png</file>
+        <file>resources/shop/28.png</file>
+        <file>resources/shop/29.png</file>
+        <file>resources/shop/30.png</file>
+        <file>resources/texiao/Attack2_01.png</file>
+        <file>resources/texiao/Attack2_02.png</file>
+        <file>resources/texiao/Attack2_03.png</file>
+        <file>resources/texiao/Attack2_04.png</file>
+        <file>resources/texiao/Attack2_05.png</file>
+        <file>resources/texiao/Attack2_06.png</file>
+        <file>resources/texiao/Attack2_07.png</file>
+        <file>resources/texiao/Attack2_08.png</file>
+        <file>resources/monster/16.png</file>
+    </qresource>
+</RCC>
